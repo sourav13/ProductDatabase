@@ -1,0 +1,28 @@
+.container {
+  display:flex;
+  justify-content:center;
+
+  clear :both;
+  
+}
+.container input{
+	width:100%;
+	clear:both;
+}
+.container > div {
+  margin:10px;
+/*  background-color:#bada55;*/
+}
+/*.first, .third {
+  width:200px;
+}
+.second {
+  width:300px;
+}*/
+p{
+	font-size: 32px;
+}
+table,h1{
+width:100%;
+text-align:center;
+}
